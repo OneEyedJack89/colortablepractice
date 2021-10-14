@@ -1,0 +1,143 @@
+* {
+box-sizing: content-box;
+
+}
+hr{
+  position: relative;
+  top: 20px;
+  border: none;
+  height: 4px;
+  background: black;
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 40px;
+  text-align: center;
+  margin: 30px auto;
+  position: relative;
+}
+
+h1 .titleheading {
+  font-size: 60px;
+  display: block;
+}
+
+body {
+  background-color: antiquewhite;
+  position: relative;
+}
+
+table {
+  font-family: Garamond, 'Times New Roman', serif;
+  font-weight: 700;
+  font-size: 20px;
+  width: 700px;
+  table-layout: fixed;
+  text-align: left;
+  margin: auto;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: solid black;
+}
+
+td {
+  padding: 7px;
+
+
+}
+
+.colorname {
+  font-weight: 800;
+  font-size: 30px;
+  background-color: white;
+}
+
+.aliceblue {
+  background-color: aliceblue;
+}
+
+.aquamarine {
+  background-color: aquamarine;
+}
+
+.black {
+  color: white;
+  background-color: black;
+}
+
+.blue {
+  color: white;
+  background-color: blue;
+}
+
+.blueviolet {
+  background-color: blueviolet;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.chartreuse {
+  background-color: chartreuse;
+}
+
+.chocolate {
+  background-color: chocolate;
+}
+
+.cyan {
+  background-color: cyan;
+}
+
+.darkblue {
+  color: white;
+  background-color: darkblue;
+}
+
+.darkgoldenrod {
+  background-color: darkgoldenrod;
+}
+
+.darkolivegreen {
+  background-color: darkolivegreen;
+}
+
+.darkred {
+  background-color: darkred;
+}
+
+.forestgreen {
+  background-color: forestgreen;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.indianred {
+  background-color: indianred;
+}
+
+.lightcoral {
+  background-color: lightcoral;
+}
+
+.lightgreen {
+  background-color: lightgreen;
+}
+
+.mediumorchid {
+  background-color: mediumorchid;
+}
+
+footer {
+  width: 500px;
+  text-align: center;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 20px;
+  margin: auto;
+  position: relative;
+}
